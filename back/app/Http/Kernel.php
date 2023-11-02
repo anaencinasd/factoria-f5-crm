@@ -66,4 +66,3 @@ class Kernel extends HttpKernel
         'verified' => \App\Http\Middleware\EnsureEmailIsVerified::class,
     ];
 }
-
