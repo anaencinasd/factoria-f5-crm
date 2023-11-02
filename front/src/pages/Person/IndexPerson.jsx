@@ -729,4 +729,3 @@ const ageBelow30Count = calculateAgeBelow30Count(people);
   );
   
 }
-
